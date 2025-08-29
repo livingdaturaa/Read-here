@@ -1,1 +1,1 @@
-rentry is here: https://rentry.co/daturaskins
+<meta http-equiv="refresh" content="0; url=[https://rentry.co/daturaskins" />
